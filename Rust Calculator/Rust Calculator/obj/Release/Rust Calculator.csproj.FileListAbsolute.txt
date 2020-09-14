@@ -1,0 +1,11 @@
+C:\Users\Kasutaja\Documents\VisualStudio\Rust Calculator\Rust Calculator\bin\Release\Rust Calculator.exe.config
+C:\Users\Kasutaja\Documents\VisualStudio\Rust Calculator\Rust Calculator\bin\Release\Rust Calculator.exe
+C:\Users\Kasutaja\Documents\VisualStudio\Rust Calculator\Rust Calculator\bin\Release\Rust Calculator.pdb
+C:\Users\Kasutaja\Documents\VisualStudio\Rust Calculator\Rust Calculator\obj\Release\Rust_Calculator.Form1.resources
+C:\Users\Kasutaja\Documents\VisualStudio\Rust Calculator\Rust Calculator\obj\Release\Rust_Calculator.Form2.resources
+C:\Users\Kasutaja\Documents\VisualStudio\Rust Calculator\Rust Calculator\obj\Release\Rust_Calculator.Properties.Resources.resources
+C:\Users\Kasutaja\Documents\VisualStudio\Rust Calculator\Rust Calculator\obj\Release\Rust Calculator.csproj.GenerateResource.cache
+C:\Users\Kasutaja\Documents\VisualStudio\Rust Calculator\Rust Calculator\obj\Release\Rust Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Kasutaja\Documents\VisualStudio\Rust Calculator\Rust Calculator\obj\Release\Rust Calculator.exe
+C:\Users\Kasutaja\Documents\VisualStudio\Rust Calculator\Rust Calculator\obj\Release\Rust Calculator.pdb
+C:\Users\Kasutaja\Documents\VisualStudio\Rust Calculator\Rust Calculator\obj\Release\Rust Calculator.csprojAssemblyReference.cache
